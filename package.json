@@ -1,6 +1,6 @@
 {
-  "name": "ats-form-react-pdf-renderer",
-  "version": "4.3.10",
+  "name": "pdf-renderer",
+  "version": "4.3.11",
   "license": "MIT",
   "description": "Create PDF files on the browser and server",
   "author": "Atharva System",
